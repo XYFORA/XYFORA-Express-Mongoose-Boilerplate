@@ -2,4 +2,4 @@
 
 ## 👤 Author
 
-[**AHMED SALEEM SHAIKH**](https://github.com/AhmedShaykh) | Co-Founder & CTO Of [**XYFORA**](https://www.xyfora.se/)
+[**AHMED SALEEM SHAIKH**](https://github.com/AhmedShaykh) | Co-Founder Of [**XYFORA**](https://xyfora-website.vercel.app/)
